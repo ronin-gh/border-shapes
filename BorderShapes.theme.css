@@ -1,3 +1,12 @@
+
+/**
+ * @name         BorderShapes
+ * @description  J
+ * @author       deez
+ * @version      1.0
+ * @source       https://github.com/ronin-gh/border-shapes/blob/main/BorderShapes.theme.css
+ */
+@@import "https://github.com/ronin-gh/border-shapes/blob/main/BorderShapes.theme.css";
 :root {
   borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
   borders-buttons-circle: 0px;
