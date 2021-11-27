@@ -1,0 +1,38 @@
+:root {
+  borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
+  borders-buttons-circle: 0px;
+  borders-switches: 0px;
+  borders-checkboxes: 0%;
+  borders-slider-bars: 0px;
+  borders-slider-grabbers: 0px;
+  borders-progress-bars: 0px;
+  borders-inputs: 0px;
+  borders-contexts: 0px;
+  borders-popouts: 0px;
+  borders-modals: 0px;
+  borders-cards: 0px;
+  borders-previews: 0px;
+  borders-sidebar-and-notices: 0px;
+  borders-servers: 0%;
+  borders-avatars: 0%;
+  borders-icons: 0%;
+  borders-labels: 0px;
+  borders-pills: 0px;
+  borders-lines: 0px;
+  borders-role-outlines: 0px;
+  borders-role-dots: 0px;
+  borders-tags: 0px;
+  borders-messages: 0px;
+  borders-files: 0px;
+  borders-mentions: 0px;
+  borders-reactions: 0px;
+  borders-codes: 0px;
+  borders-embeds: 0px;
+  borders-replies: 0px;
+  borders-quotes: 0px;
+  borders-spoilers: 0px;
+  borders-toasts: 0px;
+  borders-tooltips: 0px;
+  borders-scrollbars: 0px;
+  borders-editors: 0px;
+}
